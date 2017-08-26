@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>key</key>
+		<string>$test-color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(11, 214, 0, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$blue-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(227, 235, 239, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$blue-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(184, 205, 214, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$blue-300</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(92, 138, 162, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$blue-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(23, 88, 122, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$blue-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(10, 28, 38, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$grey-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(230, 234, 235, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$grey-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(194, 203, 204, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$grey-200</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(158, 170, 174, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$grey-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(68, 85, 93, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$grey-700</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(51, 67, 71, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$yellow-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 250, 199, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$yellow-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 234, 8, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$magenta-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(251, 222, 241, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$magenta-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(230, 0, 153, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$magenta-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(145, 0, 128, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$cyan-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(222, 249, 250, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$cyan-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(0, 213, 224, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$green-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(233, 249, 222, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$green-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(11, 214, 0, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$purple-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(237, 222, 252, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$purple-200</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(189, 129, 246, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$purple-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(123, 0, 237, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-background-color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(251, 251, 251, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$white</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 255, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$code-background</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(246, 248, 248, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$yellow-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(230, 121, 5, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string></string>
+		<key>kind</key>
+		<string>group</string>
+		<key>value</key>
+		<string>Base colors</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Background Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Light Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Title Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-700</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Link Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$magenta-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Accent Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$magenta-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Insertion Point Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$magenta-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Selected Text Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$yellow-100</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Selected Text Inactive Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$blue-50</string>
+		<!-- 不明确的颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Marker Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-100</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Invalid Character Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$test-color</string>
+		<!-- 没用的颜色？？？？ -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Map Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$green-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Separator Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-50</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$purple-50</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Marker Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$purple-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$purple-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Selected Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$cyan-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Checkbox Fill Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$white</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Checkbox Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$green-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Checkbox Check Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$green-500</string>
+	<!-- 高亮背景颜色 -->
+	</dict>
+		<dict>
+		<key>key</key>
+		<string>Highlighter Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$yellow-500</string>
+	</dict>
+	<!-- 高亮设置器颜色 -->
+	<dict>
+		<key>key</key>
+		<string>Highlighter Marker Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$magenta-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Code Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$code-background</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Code Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-50</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Code Font Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string></string>
+		<key>kind</key>
+		<string>group</string>
+		<key>value</key>
+		<string>Syntax Highlight</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Keyword</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$magenta-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Comment</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$grey-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax String</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$yellow-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Project</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$green-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Preprocessor</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$magenta-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Documentation Comment</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(0, 152, 0, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Number</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$purple-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Character</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$test-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Attribute</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$cyan-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Paragraph Font</string>
+		<key>kind</key>
+		<string>font</string>
+		<key>value</key>
+		<string>AvenirNext-Regular</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Title Font</string>
+		<key>kind</key>
+		<string>font</string>
+		<key>value</key>
+		<string>AvenirNext-Medium</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Monospace Font</string>
+		<key>kind</key>
+		<string>font</string>
+		<key>value</key>
+		<string>Menlo-Regular</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Size</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Size iOS</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Monospace Font Adjust</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<integer>-2</integer>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Line Height Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.5</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Line Width Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>40</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Paragraph Spacing Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>0.0</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>H1 Font Size Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.5</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>H2 Font Size Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.3</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>H3 Font Size Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.1000000000000001</real>
+	</dict>
+</array>
+</plist>
