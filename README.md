@@ -4,6 +4,14 @@
 
 Bear 是一款 macOS 和 iOS 上的笔记应用，类似于 Evernote，但却更加轻量级也更加美观。
 
+## 下载
+
+[下载主题](https://github.com/jay1803/bear-theme/archive/1.2.4.zip)
+
+## 预览
+
+![](https://raw.githubusercontent.com/jay1803/bear-theme/master/bear-theme.png)
+
 ## 使用方法
 
 版本兼容：1.3.0
