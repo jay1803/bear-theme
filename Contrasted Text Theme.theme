@@ -283,6 +283,7 @@
 		<string>$magenta-500</string>
 	</dict>
 	<dict>
+		<!-- 选中文字的背景色 -->
 		<key>key</key>
 		<string>Selected Text Background Color</string>
 		<key>kind</key>
@@ -291,15 +292,16 @@
 		<string>$yellow-100</string>
 	</dict>
 	<dict>
+		<!-- 未激活窗口中选中的文字颜色 -->
 		<key>key</key>
 		<string>Selected Text Inactive Background Color</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
 		<string>$blue-50</string>
-		<!-- 不明确的颜色 -->
 	</dict>
 	<dict>
+		<!-- 样式标记的颜色 -->
 		<key>key</key>
 		<string>Style Marker Text Color</string>
 		<key>kind</key>
@@ -314,9 +316,9 @@
 		<string>color</string>
 		<key>value</key>
 		<string>$test-color</string>
-		<!-- 没用的颜色？？？？ -->
 	</dict>
 	<dict>
+		<!-- 地址链接文字颜色 -->
 		<key>key</key>
 		<string>Map Text Color</string>
 		<key>kind</key>
@@ -333,6 +335,7 @@
 		<string>$grey-50</string>
 	</dict>
 	<dict>
+		<!-- 标签中 # 的颜色 -->
 		<key>key</key>
 		<string>Hashtag Text Color</string>
 		<key>kind</key>
@@ -349,6 +352,7 @@
 		<string>$purple-200</string>
 	</dict>
 	<dict>
+		<!-- 标签背景色 -->
 		<key>key</key>
 		<string>Hashtag Background Color</string>
 		<key>kind</key>
@@ -357,6 +361,7 @@
 		<string>$purple-500</string>
 	</dict>
 	<dict>
+		<!-- 标签选中背景色 -->
 		<key>key</key>
 		<string>Hashtag Selected Background Color</string>
 		<key>kind</key>
@@ -365,6 +370,7 @@
 		<string>$cyan-500</string>
 	</dict>
 	<dict>
+		<!-- Checkbox 填充色 -->
 		<key>key</key>
 		<string>Checkbox Fill Color</string>
 		<key>kind</key>
@@ -373,6 +379,7 @@
 		<string>$white</string>
 	</dict>
 	<dict>
+		<!-- Checkbox 外边框 -->
 		<key>key</key>
 		<string>Checkbox Stroke Color</string>
 		<key>kind</key>
@@ -381,15 +388,16 @@
 		<string>$green-500</string>
 	</dict>
 	<dict>
+		<!-- Checkbox 进度条背景色 -->
 		<key>key</key>
 		<string>Checkbox Check Color</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
 		<string>$green-500</string>
-	<!-- 高亮背景颜色 -->
 	</dict>
-		<dict>
+	<dict>
+		<!-- 高亮背景色 -->
 		<key>key</key>
 		<string>Highlighter Background Color</string>
 		<key>kind</key>
@@ -397,8 +405,8 @@
 		<key>value</key>
 		<string>$yellow-500</string>
 	</dict>
-	<!-- 高亮设置器颜色 -->
 	<dict>
+		<!-- 高亮标记颜色 -->
 		<key>key</key>
 		<string>Highlighter Marker Color</string>
 		<key>kind</key>
@@ -407,6 +415,7 @@
 		<string>$magenta-500</string>
 	</dict>
 	<dict>
+		<!-- 代码块背景色 -->
 		<key>key</key>
 		<string>Code Background Color</string>
 		<key>kind</key>
@@ -415,6 +424,7 @@
 		<string>$code-background</string>
 	</dict>
 	<dict>
+		<!-- 代码注释文本色 -->
 		<key>key</key>
 		<string>Code Stroke Color</string>
 		<key>kind</key>
@@ -423,6 +433,7 @@
 		<string>$grey-50</string>
 	</dict>
 	<dict>
+		<!-- 代码文本色 -->
 		<key>key</key>
 		<string>Code Font Color</string>
 		<key>kind</key>
@@ -431,6 +442,7 @@
 		<string>$grey-500</string>
 	</dict>
 	<dict>
+		<!-- 语法高亮色 -->
 		<key>key</key>
 		<string></string>
 		<key>kind</key>
@@ -439,6 +451,7 @@
 		<string>Syntax Highlight</string>
 	</dict>
 	<dict>
+		<!-- 语法关键词颜色 -->
 		<key>key</key>
 		<string>Syntax Keyword</string>
 		<key>kind</key>
@@ -447,6 +460,7 @@
 		<string>$magenta-500</string>
 	</dict>
 	<dict>
+		<!-- 注释颜色 -->
 		<key>key</key>
 		<string>Syntax Comment</string>
 		<key>kind</key>
@@ -455,6 +469,7 @@
 		<string>$grey-200</string>
 	</dict>
 	<dict>
+		<!-- 字符串颜色 -->
 		<key>key</key>
 		<string>Syntax String</string>
 		<key>kind</key>
@@ -463,6 +478,7 @@
 		<string>$yellow-900</string>
 	</dict>
 	<dict>
+		<!-- 类名颜色 -->
 		<key>key</key>
 		<string>Syntax Project</string>
 		<key>kind</key>
