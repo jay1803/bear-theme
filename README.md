@@ -14,7 +14,7 @@ Bear 是一款 macOS 和 iOS 上的笔记应用，类似于 Evernote，但却更
 
 ## 使用方法
 
-版本兼容：1.3.0
+版本兼容：1.4.1
 
 Bear 的 主题文件位于 "/Applications/Bear.app/Contents/Resources"，将解压后文件复制到这个目录中即可使用。
 
