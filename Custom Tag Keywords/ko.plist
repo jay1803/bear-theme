@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1등성</key>
+	<string>star</string>
+	<key>2등성</key>
+	<string>star</string>
+	<key>3등성</key>
+	<string>star</string>
+	<key>3점슛</key>
+	<string>sport</string>
+	<key>bb8</key>
+	<string>star wars</string>
+	<key>bbc 드라마</key>
+	<string>doctor who</string>
+	<key>diy</key>
+	<string>diy</string>
+	<key>diy 가구</key>
+	<string>diy</string>
+	<key>diy 제품</key>
+	<string>diy</string>
+	<key>diy 키트</key>
+	<string>diy</string>
+	<key>doctor who</key>
+	<string>doctor who</string>
+	<key>sf 드라마</key>
+	<string>doctor who</string>
+	<key>tv</key>
+	<string>tv</string>
+	<key>tv 쇼</key>
+	<string>tv</string>
+	<key>tv 프로그램</key>
+	<string>tv</string>
+	<key>가게</key>
+	<string>shop</string>
+	<key>가계도</key>
+	<string>family</string>
+	<key>가구</key>
+	<string>family</string>
+	<key>가방</key>
+	<string>purse</string>
+	<key>가사</key>
+	<string>music</string>
+	<key>가정</key>
+	<string>family</string>
+	<key>가족</key>
+	<string>family</string>
+	<key>가족모임</key>
+	<string>family</string>
+	<key>가족여행</key>
+	<string>family</string>
+	<key>가족파티</key>
+	<string>family</string>
+	<key>간행물</key>
+	<string>book</string>
+	<key>강아지</key>
+	<string>dog</string>
+	<key>개</key>
+	<string>dog</string>
+	<key>개그</key>
+	<string>fun</string>
+	<key>개발</key>
+	<string>development</string>
+	<key>개발자</key>
+	<string>development</string>
+	<key>개발진</key>
+	<string>development</string>
+	<key>개발팀</key>
+	<string>development</string>
+	<key>개발팀원</key>
+	<string>development</string>
+	<key>개발팀장</key>
+	<string>development</string>
+	<key>개봉</key>
+	<string>cinema</string>
+	<key>개인 블로그</key>
+	<string>article</string>
+	<key>개인정보</key>
+	<string>privacy</string>
+	<key>개인정보 보호</key>
+	<string>privacy</string>
+	<key>개인정보 침해</key>
+	<string>privacy</string>
+	<key>건강</key>
+	<string>health</string>
+	<key>건강보험</key>
+	<string>health</string>
+	<key>건강식</key>
+	<string>health</string>
+	<key>건강식품</key>
+	<string>health</string>
+	<key>게시글</key>
+	<string>article</string>
+	<key>게시물</key>
+	<string>article</string>
+	<key>게시판</key>
+	<string>article</string>
+	<key>게이머</key>
+	<string>game</string>
+	<key>게이밍</key>
+	<string>game</string>
+	<key>게임</key>
+	<string>game</string>
+	<key>게임 대회</key>
+	<string>game</string>
+	<key>게임기</key>
+	<string>game</string>
+	<key>견공</key>
+	<string>dog</string>
+	<key>경기</key>
+	<string>sport</string>
+	<key>경기장</key>
+	<string>sport</string>
+	<key>경제</key>
+	<string>economy</string>
+	<key>경제학</key>
+	<string>economy</string>
+	<key>경주</key>
+	<string>sport</string>
+	<key>계획</key>
+	<string>development</string>
+	<key>고무신</key>
+	<string>shoes</string>
+	<key>고양이</key>
+	<string>cat</string>
+	<key>고양이 먹이</key>
+	<string>cat</string>
+	<key>곡조</key>
+	<string>music</string>
+	<key>골대</key>
+	<string>sport</string>
+	<key>골키퍼</key>
+	<string>sport</string>
+	<key>공업 디자인</key>
+	<string>design</string>
+	<key>공학</key>
+	<string>science</string>
+	<key>공휴일</key>
+	<string>holiday</string>
+	<key>과제</key>
+	<string>development</string>
+	<key>과학</key>
+	<string>science</string>
+	<key>과학고등학교</key>
+	<string>science</string>
+	<key>과학관</key>
+	<string>science</string>
+	<key>과학기술</key>
+	<string>tech</string>
+	<key>과학실험</key>
+	<string>science</string>
+	<key>과학자</key>
+	<string>science</string>
+	<key>관광</key>
+	<string>travel</string>
+	<key>관광지</key>
+	<string>places</string>
+	<key>관념</key>
+	<string>idea</string>
+	<key>광선검</key>
+	<string>star wars</string>
+	<key>교육</key>
+	<string>school</string>
+	<key>교육적</key>
+	<string>school</string>
+	<key>교제</key>
+	<string>book</string>
+	<key>구두</key>
+	<string>shoes</string>
+	<key>구매</key>
+	<string>shop</string>
+	<key>구애</key>
+	<string>love</string>
+	<key>구입</key>
+	<string>shop</string>
+	<key>구절 인용</key>
+	<string>quotes</string>
+	<key>귀가</key>
+	<string>home</string>
+	<key>그리기</key>
+	<string>art</string>
+	<key>그림</key>
+	<string>photography</string>
+	<key>그이</key>
+	<string>husband</string>
+	<key>극장</key>
+	<string>cinema</string>
+	<key>근무</key>
+	<string>work</string>
+	<key>글</key>
+	<string>article</string>
+	<key>글쓰기</key>
+	<string>poetry</string>
+	<key>금융</key>
+	<string>economy</string>
+	<key>기니피그</key>
+	<string>rodents</string>
+	<key>기러기 아빠</key>
+	<string>husband</string>
+	<key>기사</key>
+	<string>article</string>
+	<key>기술</key>
+	<string>tech</string>
+	<key>기술자</key>
+	<string>tech</string>
+	<key>기술중심</key>
+	<string>tech</string>
+	<key>기프트</key>
+	<string>present</string>
+	<key>기획</key>
+	<string>development</string>
+	<key>기획자</key>
+	<string>development</string>
+	<key>길고양이</key>
+	<string>cat</string>
+	<key>나</key>
+	<string>me</string>
+	<key>나그네</key>
+	<string>travel</string>
+	<key>남편</key>
+	<string>husband</string>
+	<key>낭만시</key>
+	<string>poetry</string>
+	<key>네트</key>
+	<string>sport</string>
+	<key>노래</key>
+	<string>music</string>
+	<key>노트</key>
+	<string>article</string>
+	<key>녹차</key>
+	<string>tea</string>
+	<key>농구</key>
+	<string>sport</string>
+	<key>농구공</key>
+	<string>sport</string>
+	<key>농구선수</key>
+	<string>sport</string>
+	<key>농구장</key>
+	<string>sport</string>
+	<key>뉴트리아</key>
+	<string>rodents</string>
+	<key>다도</key>
+	<string>tea</string>
+	<key>다람쥐</key>
+	<string>rodents</string>
+	<key>다스베이다</key>
+	<string>star wars</string>
+	<key>다이어트</key>
+	<string>health</string>
+	<key>닥터 후</key>
+	<string>doctor who</string>
+	<key>단지갑</key>
+	<string>purse</string>
+	<key>달</key>
+	<string>moon</string>
+	<key>달나라</key>
+	<string>moon</string>
+	<key>달리기</key>
+	<string>exercise</string>
+	<key>달빛</key>
+	<string>moon</string>
+	<key>대변</key>
+	<string>poop</string>
+	<key>대보름</key>
+	<string>moon</string>
+	<key>대학</key>
+	<string>school</string>
+	<key>대학교</key>
+	<string>school</string>
+	<key>덩크</key>
+	<string>sport</string>
+	<key>덩크슛</key>
+	<string>sport</string>
+	<key>도그</key>
+	<string>dog</string>
+	<key>도색</key>
+	<string>porn</string>
+	<key>도서</key>
+	<string>book</string>
+	<key>도안</key>
+	<string>art</string>
+	<key>도착지</key>
+	<string>places</string>
+	<key>독서</key>
+	<string>book</string>
+	<key>돈</key>
+	<string>money</string>
+	<key>돈주머니</key>
+	<string>purse</string>
+	<key>동물</key>
+	<string>animal</string>
+	<key>동물 왕국</key>
+	<string>animal</string>
+	<key>동물원</key>
+	<string>animal</string>
+	<key>동전</key>
+	<string>money</string>
+	<key>동전 지갑</key>
+	<string>purse</string>
+	<key>드라마</key>
+	<string>tv</string>
+	<key>드로잉</key>
+	<string>art</string>
+	<key>드리볼</key>
+	<string>sport</string>
+	<key>들고양이</key>
+	<string>cat</string>
+	<key>디버거</key>
+	<string>bug</string>
+	<key>디버그</key>
+	<string>bug</string>
+	<key>디버깅</key>
+	<string>bug</string>
+	<key>디아이와이</key>
+	<string>diy</string>
+	<key>디아이와이 키트</key>
+	<string>diy</string>
+	<key>디자이너</key>
+	<string>design</string>
+	<key>디자인</key>
+	<string>design</string>
+	<key>디자인 공모전</key>
+	<string>design</string>
+	<key>디자인 콘셉</key>
+	<string>design</string>
+	<key>디자인 패턴</key>
+	<string>design</string>
+	<key>디자인권</key>
+	<string>design</string>
+	<key>따님</key>
+	<string>daughter</string>
+	<key>따옴표</key>
+	<string>quotes</string>
+	<key>딸</key>
+	<string>daughter</string>
+	<key>딸바보</key>
+	<string>daughter</string>
+	<key>똥</key>
+	<string>poop</string>
+	<key>라이츄</key>
+	<string>pokemon</string>
+	<key>러닝</key>
+	<string>exercise</string>
+	<key>러브</key>
+	<string>love</string>
+	<key>런닝</key>
+	<string>exercise</string>
+	<key>레스토랑</key>
+	<string>cooking</string>
+	<key>레시피</key>
+	<string>cooking</string>
+	<key>레이업슛</key>
+	<string>sport</string>
+	<key>레터</key>
+	<string>mail</string>
+	<key>렌터카</key>
+	<string>car</string>
+	<key>로그원</key>
+	<string>star wars</string>
+	<key>로마</key>
+	<string>italy</string>
+	<key>링크</key>
+	<string>article</string>
+	<key>마누라</key>
+	<string>wife</string>
+	<key>마라톤</key>
+	<string>exercise</string>
+	<key>막내딸</key>
+	<string>daughter</string>
+	<key>막내아들</key>
+	<string>son</string>
+	<key>만월</key>
+	<string>moon</string>
+	<key>만화</key>
+	<string>comics</string>
+	<key>만화방</key>
+	<string>comics</string>
+	<key>만화영화</key>
+	<string>comics</string>
+	<key>만화책</key>
+	<string>comics</string>
+	<key>말똥</key>
+	<string>poop</string>
+	<key>망가</key>
+	<string>comics</string>
+	<key>멍멍</key>
+	<string>dog</string>
+	<key>메모</key>
+	<string>article</string>
+	<key>메시지</key>
+	<string>mail</string>
+	<key>메일</key>
+	<string>mail</string>
+	<key>명소</key>
+	<string>places</string>
+	<key>명절휴가</key>
+	<string>holiday</string>
+	<key>모델</key>
+	<string>fashion</string>
+	<key>목적지</key>
+	<string>places</string>
+	<key>무비</key>
+	<string>cinema</string>
+	<key>무역</key>
+	<string>economy</string>
+	<key>무카페인</key>
+	<string>coffee</string>
+	<key>문장</key>
+	<string>article</string>
+	<key>뮤직</key>
+	<string>music</string>
+	<key>미</key>
+	<string>beauty</string>
+	<key>미드필더</key>
+	<string>sport</string>
+	<key>미백</key>
+	<string>beauty</string>
+	<key>미식</key>
+	<string>cooking</string>
+	<key>밀라노</key>
+	<string>italy</string>
+	<key>바깥양반</key>
+	<string>husband</string>
+	<key>바캉스</key>
+	<string>holiday</string>
+	<key>반달</key>
+	<string>moon</string>
+	<key>반려자</key>
+	<string>wife</string>
+	<key>발렌타인</key>
+	<string>love</string>
+	<key>발렌타인 데이</key>
+	<string>love</string>
+	<key>발상</key>
+	<string>idea</string>
+	<key>발췌</key>
+	<string>quotes</string>
+	<key>발췌문</key>
+	<string>quotes</string>
+	<key>방문</key>
+	<string>places</string>
+	<key>방송</key>
+	<string>tv</string>
+	<key>배구</key>
+	<string>sport</string>
+	<key>배구 경기</key>
+	<string>sport</string>
+	<key>배구 선수</key>
+	<string>sport</string>
+	<key>배구 시합</key>
+	<string>sport</string>
+	<key>배구공</key>
+	<string>sport</string>
+	<key>배구장</key>
+	<string>sport</string>
+	<key>배낭여행</key>
+	<string>travel</string>
+	<key>배변</key>
+	<string>poop</string>
+	<key>배우자</key>
+	<string>wife</string>
+	<key>백핸드</key>
+	<string>sport</string>
+	<key>버그</key>
+	<string>bug</string>
+	<key>버그 리포트</key>
+	<string>bug</string>
+	<key>버그 발견</key>
+	<string>bug</string>
+	<key>버그 보고서</key>
+	<string>bug</string>
+	<key>버그 신고</key>
+	<string>bug</string>
+	<key>버그 신고서</key>
+	<string>bug</string>
+	<key>베니스</key>
+	<string>italy</string>
+	<key>베이스볼</key>
+	<string>sport</string>
+	<key>벽시계</key>
+	<string>watch</string>
+	<key>변</key>
+	<string>poop</string>
+	<key>변비</key>
+	<string>poop</string>
+	<key>별</key>
+	<string>star</string>
+	<key>별나라</key>
+	<string>star</string>
+	<key>별빛</key>
+	<string>star</string>
+	<key>별자리</key>
+	<string>star</string>
+	<key>보름달</key>
+	<string>moon</string>
+	<key>보리차</key>
+	<string>tea</string>
+	<key>보이차</key>
+	<string>tea</string>
+	<key>보호</key>
+	<string>nature</string>
+	<key>복장</key>
+	<string>fashion</string>
+	<key>본인</key>
+	<string>me</string>
+	<key>볼거리</key>
+	<string>places</string>
+	<key>부엌</key>
+	<string>cooking</string>
+	<key>부츠</key>
+	<string>shoes</string>
+	<key>북마크</key>
+	<string>article</string>
+	<key>불독</key>
+	<string>dog</string>
+	<key>뷰티</key>
+	<string>beauty</string>
+	<key>뷰티 모델</key>
+	<string>beauty</string>
+	<key>뷰티 서비스</key>
+	<string>beauty</string>
+	<key>뷰티 카메라</key>
+	<string>beauty</string>
+	<key>뷰티 화보</key>
+	<string>beauty</string>
+	<key>뷰티 화장품</key>
+	<string>beauty</string>
+	<key>브리콜라주</key>
+	<string>diy</string>
+	<key>블로거</key>
+	<string>article</string>
+	<key>블로그</key>
+	<string>article</string>
+	<key>블로그 게시글</key>
+	<string>article</string>
+	<key>블로그 게시물</key>
+	<string>article</string>
+	<key>블로그 광고</key>
+	<string>article</string>
+	<key>블로그 마케팅</key>
+	<string>article</string>
+	<key>블로그 사이트</key>
+	<string>article</string>
+	<key>블로그 서비스</key>
+	<string>article</string>
+	<key>비디오 게임</key>
+	<string>game</string>
+	<key>비버</key>
+	<string>rodents</string>
+	<key>비상금</key>
+	<string>money</string>
+	<key>비즈니스</key>
+	<string>work</string>
+	<key>비치 발리볼</key>
+	<string>sport</string>
+	<key>비크람</key>
+	<string>yoga</string>
+	<key>빈야사</key>
+	<string>yoga</string>
+	<key>빙상장</key>
+	<string>skate</string>
+	<key>사냥개</key>
+	<string>dog</string>
+	<key>사랑</key>
+	<string>love</string>
+	<key>사생활</key>
+	<string>privacy</string>
+	<key>사생활 보호</key>
+	<string>privacy</string>
+	<key>사생활 침해</key>
+	<string>privacy</string>
+	<key>사업</key>
+	<string>work</string>
+	<key>사업 계획</key>
+	<string>development</string>
+	<key>사업장</key>
+	<string>work</string>
+	<key>사이버섹스</key>
+	<string>porn</string>
+	<key>사이언스</key>
+	<string>science</string>
+	<key>사이트</key>
+	<string>article</string>
+	<key>사적 권리</key>
+	<string>privacy</string>
+	<key>사진</key>
+	<string>photography</string>
+	<key>사진 작가</key>
+	<string>photography</string>
+	<key>사진 촬영</key>
+	<string>photography</string>
+	<key>사진술</key>
+	<string>photography</string>
+	<key>산문시</key>
+	<string>poetry</string>
+	<key>산업 디자인</key>
+	<string>design</string>
+	<key>삼성 기어</key>
+	<string>watch</string>
+	<key>삼행시</key>
+	<string>poetry</string>
+	<key>상영관</key>
+	<string>cinema</string>
+	<key>상점</key>
+	<string>shop</string>
+	<key>상현달</key>
+	<string>moon</string>
+	<key>새끼 고양이</key>
+	<string>cat</string>
+	<key>새집</key>
+	<string>home</string>
+	<key>새차</key>
+	<string>car</string>
+	<key>샌들</key>
+	<string>shoes</string>
+	<key>생각</key>
+	<string>idea</string>
+	<key>생두</key>
+	<string>coffee</string>
+	<key>생일 선물</key>
+	<string>present</string>
+	<key>서류가방</key>
+	<string>purse</string>
+	<key>서브</key>
+	<string>sport</string>
+	<key>서정시</key>
+	<string>poetry</string>
+	<key>석양</key>
+	<string>sun</string>
+	<key>선물</key>
+	<string>present</string>
+	<key>선물 상자</key>
+	<string>present</string>
+	<key>선물 포장</key>
+	<string>present</string>
+	<key>선진기술</key>
+	<string>tech</string>
+	<key>설사</key>
+	<string>poop</string>
+	<key>설치 동물</key>
+	<string>rodents</string>
+	<key>설치류</key>
+	<string>rodents</string>
+	<key>성관계</key>
+	<string>porn</string>
+	<key>성교</key>
+	<string>porn</string>
+	<key>성욕</key>
+	<string>porn</string>
+	<key>성적 행위</key>
+	<string>porn</string>
+	<key>세계</key>
+	<string>nature</string>
+	<key>세단</key>
+	<string>car</string>
+	<key>세대</key>
+	<string>family</string>
+	<key>섹스</key>
+	<string>porn</string>
+	<key>셀프</key>
+	<string>me</string>
+	<key>셀프 세차</key>
+	<string>diy</string>
+	<key>셀프컨트롤</key>
+	<string>me</string>
+	<key>셰퍼드</key>
+	<string>dog</string>
+	<key>소똥</key>
+	<string>poop</string>
+	<key>소망목록</key>
+	<string>present</string>
+	<key>소매</key>
+	<string>shop</string>
+	<key>소설</key>
+	<string>book</string>
+	<key>소프트웨어</key>
+	<string>app</string>
+	<key>소프트웨어 개발</key>
+	<string>development</string>
+	<key>손목시계</key>
+	<string>watch</string>
+	<key>쇼핑</key>
+	<string>shop</string>
+	<key>수업</key>
+	<string>school</string>
+	<key>수필</key>
+	<string>book</string>
+	<key>스니커즈</key>
+	<string>shoes</string>
+	<key>스마트워치</key>
+	<string>watch</string>
+	<key>스카이워커</key>
+	<string>star wars</string>
+	<key>스케이트</key>
+	<string>skate</string>
+	<key>스케이트 경기</key>
+	<string>skate</string>
+	<key>스케이트 보드</key>
+	<string>skate</string>
+	<key>스케이트 선수</key>
+	<string>skate</string>
+	<key>스케이트 타기</key>
+	<string>skate</string>
+	<key>스케이트보드</key>
+	<string>skate</string>
+	<key>스케이트보딩</key>
+	<string>skate</string>
+	<key>스케이트장</key>
+	<string>skate</string>
+	<key>스케치</key>
+	<string>art</string>
+	<key>스케칭</key>
+	<string>art</string>
+	<key>스타</key>
+	<string>star</string>
+	<key>스타디움</key>
+	<string>sport</string>
+	<key>스타워즈</key>
+	<string>star wars</string>
+	<key>스토어</key>
+	<string>shop</string>
+	<key>스트라이커</key>
+	<string>sport</string>
+	<key>스포츠</key>
+	<string>sport</string>
+	<key>스포츠카</key>
+	<string>car</string>
+	<key>슬리퍼</key>
+	<string>shoes</string>
+	<key>승용차</key>
+	<string>car</string>
+	<key>시</key>
+	<string>poetry</string>
+	<key>시간 관리</key>
+	<string>todo</string>
+	<key>시계</key>
+	<string>watch</string>
+	<key>시네마</key>
+	<string>cinema</string>
+	<key>시리즈</key>
+	<string>tv</string>
+	<key>시인</key>
+	<string>poetry</string>
+	<key>시집</key>
+	<string>poetry</string>
+	<key>시합</key>
+	<string>sport</string>
+	<key>식당</key>
+	<string>cooking</string>
+	<key>식품</key>
+	<string>cooking</string>
+	<key>신남</key>
+	<string>fun</string>
+	<key>신랑</key>
+	<string>husband</string>
+	<key>신발</key>
+	<string>shoes</string>
+	<key>신부</key>
+	<string>wife</string>
+	<key>신차</key>
+	<string>car</string>
+	<key>쌍화차</key>
+	<string>tea</string>
+	<key>아기 고양이</key>
+	<string>cat</string>
+	<key>아내</key>
+	<string>wife</string>
+	<key>아니메</key>
+	<string>comics</string>
+	<key>아드님</key>
+	<string>son</string>
+	<key>아들</key>
+	<string>son</string>
+	<key>아름다움</key>
+	<string>beauty</string>
+	<key>아메리카노</key>
+	<string>coffee</string>
+	<key>아쉬탕가</key>
+	<string>yoga</string>
+	<key>아시안게임</key>
+	<string>sport</string>
+	<key>아이디어</key>
+	<string>idea</string>
+	<key>아이디어 공모</key>
+	<string>idea</string>
+	<key>아이디어 상품</key>
+	<string>idea</string>
+	<key>아이스링크</key>
+	<string>skate</string>
+	<key>아이스하키</key>
+	<string>sport</string>
+	<key>아침식사</key>
+	<string>cooking</string>
+	<key>아카데이</key>
+	<string>school</string>
+	<key>아케이드 게임</key>
+	<string>game</string>
+	<key>아트</key>
+	<string>art</string>
+	<key>아트워크</key>
+	<string>art</string>
+	<key>안사람</key>
+	<string>wife</string>
+	<key>알람시계</key>
+	<string>watch</string>
+	<key>애 아빠</key>
+	<string>husband</string>
+	<key>애 엄마</key>
+	<string>wife</string>
+	<key>애니멀</key>
+	<string>animal</string>
+	<key>애니메이션</key>
+	<string>comics</string>
+	<key>애완견</key>
+	<string>dog</string>
+	<key>애정</key>
+	<string>love</string>
+	<key>애정행각</key>
+	<string>porn</string>
+	<key>애플리케이션</key>
+	<string>app</string>
+	<key>애플워치</key>
+	<string>watch</string>
+	<key>액션 게임</key>
+	<string>game</string>
+	<key>앱</key>
+	<string>app</string>
+	<key>앱 게임</key>
+	<string>game</string>
+	<key>앱스토어</key>
+	<string>app</string>
+	<key>야구</key>
+	<string>sport</string>
+	<key>야구공</key>
+	<string>sport</string>
+	<key>야구방망이</key>
+	<string>sport</string>
+	<key>야구장</key>
+	<string>sport</string>
+	<key>야구장갑</key>
+	<string>sport</string>
+	<key>야동</key>
+	<string>porn</string>
+	<key>야생고양이</key>
+	<string>cat</string>
+	<key>야옹</key>
+	<string>cat</string>
+	<key>야옹이</key>
+	<string>cat</string>
+	<key>어플</key>
+	<string>app</string>
+	<key>어플리케이션</key>
+	<string>app</string>
+	<key>에세이</key>
+	<string>book</string>
+	<key>에스프레소</key>
+	<string>coffee</string>
+	<key>여식</key>
+	<string>daughter</string>
+	<key>여자배구</key>
+	<string>sport</string>
+	<key>여행</key>
+	<string>travel</string>
+	<key>여행가</key>
+	<string>travel</string>
+	<key>여행객</key>
+	<string>travel</string>
+	<key>여행사</key>
+	<string>travel</string>
+	<key>여행지</key>
+	<string>places</string>
+	<key>연말연시</key>
+	<string>holiday</string>
+	<key>연속극</key>
+	<string>tv</string>
+	<key>연휴</key>
+	<string>holiday</string>
+	<key>열람</key>
+	<string>book</string>
+	<key>영감</key>
+	<string>idea</string>
+	<key>영국 드라마</key>
+	<string>doctor who</string>
+	<key>영드</key>
+	<string>doctor who</string>
+	<key>영랑</key>
+	<string>son</string>
+	<key>영상</key>
+	<string>cinema</string>
+	<key>영식</key>
+	<string>son</string>
+	<key>영애</key>
+	<string>daughter</string>
+	<key>영양</key>
+	<string>health</string>
+	<key>영양사</key>
+	<string>health</string>
+	<key>영양식</key>
+	<string>health</string>
+	<key>영양제</key>
+	<string>health</string>
+	<key>영윤</key>
+	<string>son</string>
+	<key>영화</key>
+	<string>cinema</string>
+	<key>영화관</key>
+	<string>cinema</string>
+	<key>영화시사회</key>
+	<string>cinema</string>
+	<key>예고편</key>
+	<string>cinema</string>
+	<key>예금</key>
+	<string>money</string>
+	<key>예비 계획</key>
+	<string>development</string>
+	<key>예증</key>
+	<string>quotes</string>
+	<key>오류</key>
+	<string>bug</string>
+	<key>온가족</key>
+	<string>family</string>
+	<key>올림픽</key>
+	<string>sport</string>
+	<key>옷</key>
+	<string>fashion</string>
+	<key>와이프</key>
+	<string>wife</string>
+	<key>와치</key>
+	<string>watch</string>
+	<key>외설</key>
+	<string>porn</string>
+	<key>외설물</key>
+	<string>porn</string>
+	<key>외환</key>
+	<string>economy</string>
+	<key>요가</key>
+	<string>yoga</string>
+	<key>요가 강사</key>
+	<string>yoga</string>
+	<key>요가 동작</key>
+	<string>yoga</string>
+	<key>요가 레깅스</key>
+	<string>yoga</string>
+	<key>요가 매트</key>
+	<string>yoga</string>
+	<key>요가 자세</key>
+	<string>yoga</string>
+	<key>요가복</key>
+	<string>yoga</string>
+	<key>요다</key>
+	<string>star wars</string>
+	<key>요리</key>
+	<string>cooking</string>
+	<key>요리법</key>
+	<string>cooking</string>
+	<key>우롱차</key>
+	<string>tea</string>
+	<key>우리집</key>
+	<string>home</string>
+	<key>우체통</key>
+	<string>mail</string>
+	<key>우편</key>
+	<string>mail</string>
+	<key>우편주소</key>
+	<string>mail</string>
+	<key>우편함</key>
+	<string>mail</string>
+	<key>우호</key>
+	<string>peace</string>
+	<key>운동</key>
+	<string>sport</string>
+	<key>운동화</key>
+	<string>shoes</string>
+	<key>운문</key>
+	<string>poetry</string>
+	<key>워치</key>
+	<string>watch</string>
+	<key>원두</key>
+	<string>coffee</string>
+	<key>월드</key>
+	<string>nature</string>
+	<key>월드컵</key>
+	<string>sport</string>
+	<key>웹 디자인</key>
+	<string>design</string>
+	<key>웹 브라우저</key>
+	<string>article</string>
+	<key>웹 페이지</key>
+	<string>article</string>
+	<key>웹사이트</key>
+	<string>article</string>
+	<key>웹페이지</key>
+	<string>article</string>
+	<key>위시리스트</key>
+	<string>present</string>
+	<key>유격수</key>
+	<string>sport</string>
+	<key>유니버시아드</key>
+	<string>sport</string>
+	<key>유머</key>
+	<string>fun</string>
+	<key>유행</key>
+	<string>fashion</string>
+	<key>육상동물</key>
+	<string>animal</string>
+	<key>육식동물</key>
+	<string>animal</string>
+	<key>은행</key>
+	<string>economy</string>
+	<key>음란물</key>
+	<string>porn</string>
+	<key>음식</key>
+	<string>cooking</string>
+	<key>음악</key>
+	<string>music</string>
+	<key>응가</key>
+	<string>poop</string>
+	<key>응용 소프트웨어</key>
+	<string>app</string>
+	<key>응용 프로그램</key>
+	<string>app</string>
+	<key>응용프로그램</key>
+	<string>app</string>
+	<key>의류</key>
+	<string>fashion</string>
+	<key>의복</key>
+	<string>fashion</string>
+	<key>의사</key>
+	<string>doctor who</string>
+	<key>의상</key>
+	<string>fashion</string>
+	<key>이메일</key>
+	<string>mail</string>
+	<key>이미지</key>
+	<string>photography</string>
+	<key>이탈리아</key>
+	<string>italy</string>
+	<key>이탈리아 말</key>
+	<string>italy</string>
+	<key>이탈리아 사람</key>
+	<string>italy</string>
+	<key>이탈리아어</key>
+	<string>italy</string>
+	<key>이태리</key>
+	<string>italy</string>
+	<key>이태리 사람</key>
+	<string>italy</string>
+	<key>이태리어</key>
+	<string>italy</string>
+	<key>인기곡</key>
+	<string>music</string>
+	<key>인쇄</key>
+	<string>typography</string>
+	<key>인쇄물</key>
+	<string>typography</string>
+	<key>인쇄술</key>
+	<string>typography</string>
+	<key>인용</key>
+	<string>quotes</string>
+	<key>인용 문헌</key>
+	<string>quotes</string>
+	<key>인용 부호</key>
+	<string>quotes</string>
+	<key>인용구</key>
+	<string>quotes</string>
+	<key>인용문</key>
+	<string>quotes</string>
+	<key>인테리어 디자인</key>
+	<string>design</string>
+	<key>일</key>
+	<string>work</string>
+	<key>일러스트레이션</key>
+	<string>art</string>
+	<key>일몰</key>
+	<string>sun</string>
+	<key>일자리</key>
+	<string>work</string>
+	<key>일출</key>
+	<string>sun</string>
+	<key>자기 자신</key>
+	<string>me</string>
+	<key>자기 주도</key>
+	<string>me</string>
+	<key>자기중심</key>
+	<string>me</string>
+	<key>자동차</key>
+	<string>car</string>
+	<key>자신</key>
+	<string>me</string>
+	<key>자아</key>
+	<string>me</string>
+	<key>자아성찰</key>
+	<string>me</string>
+	<key>자연</key>
+	<string>nature</string>
+	<key>자연 법칙</key>
+	<string>nature</string>
+	<key>자연 요법</key>
+	<string>nature</string>
+	<key>자연 환경</key>
+	<string>nature</string>
+	<key>자유시</key>
+	<string>poetry</string>
+	<key>자택</key>
+	<string>home</string>
+	<key>작곡</key>
+	<string>music</string>
+	<key>작문</key>
+	<string>article</string>
+	<key>작사</key>
+	<string>music</string>
+	<key>작업</key>
+	<string>work</string>
+	<key>작업 관리</key>
+	<string>todo</string>
+	<key>작업 항목</key>
+	<string>todo</string>
+	<key>작업관리 목록</key>
+	<string>todo</string>
+	<key>작업목록</key>
+	<string>todo</string>
+	<key>장남</key>
+	<string>son</string>
+	<key>장녀</key>
+	<string>daughter</string>
+	<key>장바구니</key>
+	<string>shop</string>
+	<key>장소</key>
+	<string>places</string>
+	<key>장지갑</key>
+	<string>purse</string>
+	<key>장화</key>
+	<string>shoes</string>
+	<key>재미</key>
+	<string>fun</string>
+	<key>재미있음</key>
+	<string>fun</string>
+	<key>저금</key>
+	<string>money</string>
+	<key>저녁식사</key>
+	<string>cooking</string>
+	<key>저빌</key>
+	<string>rodents</string>
+	<key>저축</key>
+	<string>money</string>
+	<key>적금</key>
+	<string>money</string>
+	<key>전략 게임</key>
+	<string>game</string>
+	<key>전업 남편</key>
+	<string>husband</string>
+	<key>전업 주부</key>
+	<string>wife</string>
+	<key>전자지갑</key>
+	<string>purse</string>
+	<key>점심식사</key>
+	<string>cooking</string>
+	<key>정사</key>
+	<string>porn</string>
+	<key>정신 활동</key>
+	<string>idea</string>
+	<key>정신건강</key>
+	<string>health</string>
+	<key>정형시</key>
+	<string>poetry</string>
+	<key>제다이</key>
+	<string>star wars</string>
+	<key>조깅</key>
+	<string>exercise</string>
+	<key>조지 루커스</key>
+	<string>star wars</string>
+	<key>조판</key>
+	<string>typography</string>
+	<key>족구</key>
+	<string>sport</string>
+	<key>졸업 선물</key>
+	<string>present</string>
+	<key>좋아함</key>
+	<string>love</string>
+	<key>주머니</key>
+	<string>purse</string>
+	<key>주방</key>
+	<string>cooking</string>
+	<key>주식</key>
+	<string>economy</string>
+	<key>주자</key>
+	<string>sport</string>
+	<key>중고차</key>
+	<string>car</string>
+	<key>쥐</key>
+	<string>rodents</string>
+	<key>즐거움</key>
+	<string>fun</string>
+	<key>즐겨찾기</key>
+	<string>article</string>
+	<key>증권거래소</key>
+	<string>economy</string>
+	<key>지각</key>
+	<string>idea</string>
+	<key>지갑</key>
+	<string>purse</string>
+	<key>지구과학</key>
+	<string>science</string>
+	<key>지성</key>
+	<string>idea</string>
+	<key>직업</key>
+	<string>work</string>
+	<key>직장</key>
+	<string>work</string>
+	<key>직접 수리</key>
+	<string>diy</string>
+	<key>직접 조립</key>
+	<string>diy</string>
+	<key>진돗개</key>
+	<string>dog</string>
+	<key>짐승</key>
+	<string>animal</string>
+	<key>집</key>
+	<string>home</string>
+	<key>집 주소</key>
+	<string>home</string>
+	<key>집고양이</key>
+	<string>cat</string>
+	<key>집들이</key>
+	<string>home</string>
+	<key>짝사랑</key>
+	<string>love</string>
+	<key>차</key>
+	<string>tea</string>
+	<key>차남</key>
+	<string>son</string>
+	<key>차녀</key>
+	<string>daughter</string>
+	<key>차량</key>
+	<string>car</string>
+	<key>찻잔</key>
+	<string>tea</string>
+	<key>찻집</key>
+	<string>tea</string>
+	<key>책</key>
+	<string>book</string>
+	<key>책갈피</key>
+	<string>article</string>
+	<key>천연</key>
+	<string>nature</string>
+	<key>천체</key>
+	<string>star</string>
+	<key>첨단과학</key>
+	<string>science</string>
+	<key>첨단기술</key>
+	<string>tech</string>
+	<key>첫사랑</key>
+	<string>love</string>
+	<key>체력</key>
+	<string>exercise</string>
+	<key>체력단련</key>
+	<string>exercise</string>
+	<key>초승달</key>
+	<string>moon</string>
+	<key>초식동물</key>
+	<string>animal</string>
+	<key>초자연</key>
+	<string>nature</string>
+	<key>촬영</key>
+	<string>photography</string>
+	<key>촬영술</key>
+	<string>photography</string>
+	<key>추석 선물</key>
+	<string>present</string>
+	<key>축구</key>
+	<string>sport</string>
+	<key>축구 경기</key>
+	<string>sport</string>
+	<key>축구 선수</key>
+	<string>sport</string>
+	<key>축구 시합</key>
+	<string>sport</string>
+	<key>축구 중계</key>
+	<string>sport</string>
+	<key>축구 평가전</key>
+	<string>sport</string>
+	<key>축구공</key>
+	<string>sport</string>
+	<key>축구장</key>
+	<string>sport</string>
+	<key>축구협회</key>
+	<string>sport</string>
+	<key>출발지</key>
+	<string>places</string>
+	<key>출판물</key>
+	<string>book</string>
+	<key>친아들</key>
+	<string>son</string>
+	<key>카섹스</key>
+	<string>porn</string>
+	<key>카툰</key>
+	<string>comics</string>
+	<key>카트</key>
+	<string>shop</string>
+	<key>카페라떼</key>
+	<string>coffee</string>
+	<key>카페인</key>
+	<string>coffee</string>
+	<key>카피바라</key>
+	<string>rodents</string>
+	<key>칼리지</key>
+	<string>school</string>
+	<key>캐시</key>
+	<string>money</string>
+	<key>커피</key>
+	<string>coffee</string>
+	<key>커피빈</key>
+	<string>coffee</string>
+	<key>커피숍</key>
+	<string>coffee</string>
+	<key>커피콩</key>
+	<string>coffee</string>
+	<key>코드</key>
+	<string>development</string>
+	<key>코딩</key>
+	<string>development</string>
+	<key>코미디</key>
+	<string>fun</string>
+	<key>코믹</key>
+	<string>comics</string>
+	<key>코믹북</key>
+	<string>comics</string>
+	<key>코스튬</key>
+	<string>fashion</string>
+	<key>크리스</key>
+	<string>sport</string>
+	<key>크리스마스 선물</key>
+	<string>present</string>
+	<key>크리켓</key>
+	<string>sport</string>
+	<key>크리켓 게임</key>
+	<string>sport</string>
+	<key>크리켓 경기</key>
+	<string>sport</string>
+	<key>크리켓 공</key>
+	<string>sport</string>
+	<key>크리켓 배트</key>
+	<string>sport</string>
+	<key>크리켓 선수</key>
+	<string>sport</string>
+	<key>크리켓 시합</key>
+	<string>sport</string>
+	<key>크리켓 월드컵</key>
+	<string>sport</string>
+	<key>큰딸</key>
+	<string>daughter</string>
+	<key>큰아들</key>
+	<string>son</string>
+	<key>타이포그라피</key>
+	<string>typography</string>
+	<key>타임로드</key>
+	<string>doctor who</string>
+	<key>타자</key>
+	<string>sport</string>
+	<key>탁상시계</key>
+	<string>watch</string>
+	<key>태양</key>
+	<string>sun</string>
+	<key>태양 에너지</key>
+	<string>sun</string>
+	<key>태양광</key>
+	<string>sun</string>
+	<key>태양풍</key>
+	<string>sun</string>
+	<key>테니스</key>
+	<string>sport</string>
+	<key>테니스공</key>
+	<string>sport</string>
+	<key>테니스라켓</key>
+	<string>sport</string>
+	<key>테니스선수</key>
+	<string>sport</string>
+	<key>테니스장</key>
+	<string>sport</string>
+	<key>테니스코트</key>
+	<string>sport</string>
+	<key>테크</key>
+	<string>tech</string>
+	<key>테크놀로지</key>
+	<string>tech</string>
+	<key>텍스트북</key>
+	<string>book</string>
+	<key>텔레비전</key>
+	<string>tv</string>
+	<key>토끼똥</key>
+	<string>poop</string>
+	<key>투수</key>
+	<string>sport</string>
+	<key>투어</key>
+	<string>travel</string>
+	<key>투자</key>
+	<string>economy</string>
+	<key>트래블</key>
+	<string>travel</string>
+	<key>트랙</key>
+	<string>music</string>
+	<key>트렌드</key>
+	<string>fashion</string>
+	<key>파워블로거</key>
+	<string>article</string>
+	<key>파트너</key>
+	<string>wife</string>
+	<key>팟빵</key>
+	<string>podcast</string>
+	<key>팟캐스트</key>
+	<string>podcast</string>
+	<key>팟캐스트 구독</key>
+	<string>podcast</string>
+	<key>팟캐스트 다운로드</key>
+	<string>podcast</string>
+	<key>팟캐스트 방송</key>
+	<string>podcast</string>
+	<key>팟캐스트 사이트</key>
+	<string>podcast</string>
+	<key>팟캐스트 스튜디오</key>
+	<string>podcast</string>
+	<key>팟캐스트 앱</key>
+	<string>podcast</string>
+	<key>팟캐스트 어플</key>
+	<string>podcast</string>
+	<key>팟캐스팅</key>
+	<string>podcast</string>
+	<key>패밀리</key>
+	<string>family</string>
+	<key>패션</key>
+	<string>fashion</string>
+	<key>퍽</key>
+	<string>sport</string>
+	<key>페인팅</key>
+	<string>art</string>
+	<key>편성표</key>
+	<string>tv</string>
+	<key>편지</key>
+	<string>mail</string>
+	<key>편지지</key>
+	<string>mail</string>
+	<key>평안</key>
+	<string>peace</string>
+	<key>평온함</key>
+	<string>peace</string>
+	<key>평화</key>
+	<string>peace</string>
+	<key>평화 지수</key>
+	<string>peace</string>
+	<key>평화로움</key>
+	<string>peace</string>
+	<key>평화주의자</key>
+	<string>peace</string>
+	<key>포르노</key>
+	<string>porn</string>
+	<key>포르노 배우</key>
+	<string>porn</string>
+	<key>포르노 영화</key>
+	<string>porn</string>
+	<key>포르노그래피</key>
+	<string>porn</string>
+	<key>포르노물</key>
+	<string>porn</string>
+	<key>포수</key>
+	<string>sport</string>
+	<key>포스</key>
+	<string>star wars</string>
+	<key>포유동물</key>
+	<string>animal</string>
+	<key>포케몬</key>
+	<string>pokemon</string>
+	<key>포켓몬</key>
+	<string>pokemon</string>
+	<key>포켓몬 도감</key>
+	<string>pokemon</string>
+	<key>포켓몬 듀얼</key>
+	<string>pokemon</string>
+	<key>포켓몬고</key>
+	<string>pokemon</string>
+	<key>포켓몬스터</key>
+	<string>pokemon</string>
+	<key>포켓몬스터 게임</key>
+	<string>pokemon</string>
+	<key>포켓몬스터 캐릭터</key>
+	<string>pokemon</string>
+	<key>포토</key>
+	<string>photography</string>
+	<key>포토그래피</key>
+	<string>photography</string>
+	<key>포핸드</key>
+	<string>sport</string>
+	<key>풋볼</key>
+	<string>sport</string>
+	<key>프라이버시</key>
+	<string>privacy</string>
+	<key>프라이버시 보호</key>
+	<string>privacy</string>
+	<key>프라이버시 침해</key>
+	<string>privacy</string>
+	<key>프로그램</key>
+	<string>tv</string>
+	<key>프로그램 개발</key>
+	<string>development</string>
+	<key>프로젝트</key>
+	<string>development</string>
+	<key>프로젝트 관리</key>
+	<string>development</string>
+	<key>프로젝트 관리자</key>
+	<string>development</string>
+	<key>프로젝트 기획</key>
+	<string>development</string>
+	<key>피스메이커</key>
+	<string>peace</string>
+	<key>피차츄</key>
+	<string>pokemon</string>
+	<key>피치</key>
+	<string>sport</string>
+	<key>피트니스</key>
+	<string>exercise</string>
+	<key>필드하키</key>
+	<string>sport</string>
+	<key>필름</key>
+	<string>cinema</string>
+	<key>하드 코트</key>
+	<string>sport</string>
+	<key>하우스</key>
+	<string>home</string>
+	<key>하이테크</key>
+	<string>tech</string>
+	<key>하이힐</key>
+	<string>shoes</string>
+	<key>하키</key>
+	<string>sport</string>
+	<key>하키 경기</key>
+	<string>sport</string>
+	<key>하키 리그</key>
+	<string>sport</string>
+	<key>하키 선수</key>
+	<string>sport</string>
+	<key>하키 시합</key>
+	<string>sport</string>
+	<key>하키스틱</key>
+	<string>sport</string>
+	<key>하키장</key>
+	<string>sport</string>
+	<key>하트</key>
+	<string>love</string>
+	<key>하현달</key>
+	<string>moon</string>
+	<key>학교</key>
+	<string>school</string>
+	<key>학급</key>
+	<string>school</string>
+	<key>학원</key>
+	<string>school</string>
+	<key>할 것</key>
+	<string>todo</string>
+	<key>해야할일</key>
+	<string>todo</string>
+	<key>할 일</key>
+	<string>todo</string>
+	<key>할 일 목록</key>
+	<string>todo</string>
+	<key>항성</key>
+	<string>star</string>
+	<key>해</key>
+	<string>sun</string>
+	<key>해야 할 일</key>
+	<string>todo</string>
+	<key>해양동물</key>
+	<string>animal</string>
+	<key>해외걸작드라마</key>
+	<string>doctor who</string>
+	<key>해외여행</key>
+	<string>travel</string>
+	<key>핸드백</key>
+	<string>purse</string>
+	<key>햄스터</key>
+	<string>rodents</string>
+	<key>햇빛</key>
+	<string>sun</string>
+	<key>햇살</key>
+	<string>sun</string>
+	<key>헌집</key>
+	<string>home</string>
+	<key>헬스</key>
+	<string>exercise</string>
+	<key>혁신</key>
+	<string>tech</string>
+	<key>현금</key>
+	<string>money</string>
+	<key>현장</key>
+	<string>places</string>
+	<key>혼외정사</key>
+	<string>porn</string>
+	<key>홀리데이</key>
+	<string>holiday</string>
+	<key>홈</key>
+	<string>home</string>
+	<key>홈쇼핑</key>
+	<string>shop</string>
+	<key>홈페이지</key>
+	<string>article</string>
+	<key>홍차</key>
+	<string>tea</string>
+	<key>화목</key>
+	<string>peace</string>
+	<key>화장</key>
+	<string>beauty</string>
+	<key>화평</key>
+	<string>peace</string>
+	<key>환경</key>
+	<string>nature</string>
+	<key>환율</key>
+	<string>economy</string>
+	<key>활판</key>
+	<string>typography</string>
+	<key>활판 기술</key>
+	<string>typography</string>
+	<key>활판 인쇄</key>
+	<string>typography</string>
+	<key>활판 인쇄술</key>
+	<string>typography</string>
+	<key>활판술</key>
+	<string>typography</string>
+	<key>회사</key>
+	<string>work</string>
+	<key>후박사의 모험</key>
+	<string>doctor who</string>
+	<key>휴가</key>
+	<string>holiday</string>
+	<key>휴가지</key>
+	<string>holiday</string>
+	<key>휴가철</key>
+	<string>holiday</string>
+	<key>휴일</key>
+	<string>holiday</string>
+	<key>흥겨움</key>
+	<string>fun</string>
+	<key>흥미</key>
+	<string>fun</string>
+	<key>흥미로움</key>
+	<string>fun</string>
+	<key>히트곡</key>
+	<string>music</string>
+</dict>
+</plist>

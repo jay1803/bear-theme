@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>android</key>
+	<string>android</string>
+	<key>apple</key>
+	<string>apple</string>
+	<key>apple watch</key>
+	<string>watch</string>
+	<key>bear</key>
+	<string>bear</string>
+	<key>chef</key>
+	<string>cooking</string>
+	<key>debian</key>
+	<string>linux</string>
+	<key>dev</key>
+	<string>development</string>
+	<key>doggo</key>
+	<string>dog</string>
+	<key>doggos</key>
+	<string>dog</string>
+	<key>ebook</key>
+	<string>book</string>
+	<key>ebooks</key>
+	<string>book</string>
+	<key>epub</key>
+	<string>book</string>
+	<key>epubs</key>
+	<string>book</string>
+	<key>espresso</key>
+	<string>coffee</string>
+	<key>facebook</key>
+	<string>facebook</string>
+	<key>furry</key>
+	<string>furry</string>
+	<key>geek</key>
+	<string>nerd</string>
+	<key>geeks</key>
+	<string>nerd</string>
+	<key>hulu</key>
+	<string>tv</string>
+	<key>ibook</key>
+	<string>book</string>
+	<key>instagram</key>
+	<string>instagram</string>
+	<key>ipad</key>
+	<string>ipad</string>
+	<key>ipad pro</key>
+	<string>ipad</string>
+	<key>iphone</key>
+	<string>iphone</string>
+	<key>iphone 7</key>
+	<string>iphone</string>
+	<key>iphone 7+</key>
+	<string>iphone</string>
+	<key>iphone 8</key>
+	<string>iphone</string>
+	<key>iphone 8+</key>
+	<string>iphone</string>
+	<key>iphone x</key>
+	<string>iphone</string>
+	<key>iphone7</key>
+	<string>iphone</string>
+	<key>iphone7+</key>
+	<string>iphone</string>
+	<key>iphone8</key>
+	<string>iphone</string>
+	<key>iphone8+</key>
+	<string>iphone</string>
+	<key>it</key>
+	<string>development</string>
+	<key>itc</key>
+	<string>development</string>
+	<key>kindle</key>
+	<string>book</string>
+	<key>kindle fire</key>
+	<string>book</string>
+	<key>linux</key>
+	<string>linux</string>
+	<key>lmao</key>
+	<string>fun</string>
+	<key>lol</key>
+	<string>fun</string>
+	<key>mac</key>
+	<string>mac</string>
+	<key>macos</key>
+	<string>mac</string>
+	<key>mario kart</key>
+	<string>mario</string>
+	<key>mario odissey</key>
+	<string>mario</string>
+	<key>mario world</key>
+	<string>mario</string>
+	<key>meme</key>
+	<string>fun</string>
+	<key>memes</key>
+	<string>fun</string>
+	<key>mlb</key>
+	<string>sport</string>
+	<key>nba</key>
+	<string>sport</string>
+	<key>nerd</key>
+	<string>nerd</string>
+	<key>nerds</key>
+	<string>nerd</string>
+	<key>nerdy</key>
+	<string>nerd</string>
+	<key>nes</key>
+	<string>nintendo</string>
+	<key>netflix</key>
+	<string>tv</string>
+	<key>nfl</key>
+	<string>sport</string>
+	<key>nhl</key>
+	<string>sport</string>
+	<key>nintendo</key>
+	<string>nintendo</string>
+	<key>nintendo 64</key>
+	<string>nintendo</string>
+	<key>nintendo switch</key>
+	<string>switch</string>
+	<key>nsfw</key>
+	<string>porn</string>
+	<key>playstation</key>
+	<string>playstation</string>
+	<key>ps1</key>
+	<string>playstation</string>
+	<key>ps2</key>
+	<string>playstation</string>
+	<key>ps3</key>
+	<string>playstation</string>
+	<key>ps4</key>
+	<string>playstation</string>
+	<key>ps4 pro</key>
+	<string>playstation</string>
+	<key>reddit</key>
+	<string>reddit</string>
+	<key>rotfl</key>
+	<string>fun</string>
+	<key>shiny frog</key>
+	<string>shiny frog</string>
+	<key>shinyfrog</key>
+	<string>shiny frog</string>
+	<key>snes</key>
+	<string>nintendo</string>
+	<key>subreddit</key>
+	<string>reddit</string>
+	<key>subreddits</key>
+	<string>reddit</string>
+	<key>super mario</key>
+	<string>mario</string>
+	<key>super mario brothers</key>
+	<string>mario</string>
+	<key>super nes</key>
+	<string>nintendo</string>
+	<key>super nintendo</key>
+	<string>nintendo</string>
+	<key>supernes</key>
+	<string>nintendo</string>
+	<key>suse</key>
+	<string>linux</string>
+	<key>swag</key>
+	<string>fashion</string>
+	<key>switch</key>
+	<string>switch</string>
+	<key>tumblr</key>
+	<string>tumblr</string>
+	<key>twitter</key>
+	<string>twitter</string>
+	<key>ubuntu</key>
+	<string>linux</string>
+	<key>ui</key>
+	<string>design</string>
+	<key>ux</key>
+	<string>design</string>
+	<key>wii</key>
+	<string>nintendo</string>
+	<key>wiiu</key>
+	<string>nintendo</string>
+	<key>windows</key>
+	<string>windows</string>
+	<key>windows 8</key>
+	<string>windows</string>
+	<key>windows vista</key>
+	<string>windows</string>
+	<key>windows xp</key>
+	<string>windows</string>
+	<key>windows8</key>
+	<string>windows</string>
+	<key>windowsxp</key>
+	<string>windows</string>
+	<key>x box</key>
+	<string>xbox</string>
+	<key>x box one</key>
+	<string>xbox</string>
+	<key>xbox</key>
+	<string>xbox</string>
+	<key>xboxone</key>
+	<string>xbox</string>
+	<key>youtube</key>
+	<string>youtube</string>
+	<key>youtuber</key>
+	<string>youtube</string>
+	<key>youtubers</key>
+	<string>youtube</string>
+	<key>zelda</key>
+	<string>zelda</string>
+	<key>math</key>
+	<string>math</string>
+	<key>password</key>
+	<string>password</string>
+	<key>passwords</key>
+	<string>password</string>
+	<key>mario</key>
+	<string>mario</string>
+	<key>doctorwho</key>
+	<string>doctor who</string>
+	<key>saitama</key>
+	<string>comics</string>
+	<key>one punch man</key>
+	<string>comics</string>
+	<key>one-punch man</key>
+	<string>comics</string>
+	<key>one punch-man</key>
+	<string>comics</string>
+	<key>onepunch-man</key>
+	<string>comics</string>
+</dict>
+</plist>
